@@ -24,4 +24,3 @@ console.log(divideBalanceByAccounts(3000, 2));
 console.log(getRestAfterDivision(7000, 3));
 
 
-
