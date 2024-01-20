@@ -17,7 +17,7 @@ let x = 4;
     return x;
   }
 
-  let resultIncrement = incrementBalance(10);
+let resultIncrement = incrementBalance(10);
 console.log('Result with increment:', resultIncrement);
 let resultDecrement = decrementBalance(10);
 console.log('Result with decrement:', resultDecrement);
